@@ -11,7 +11,7 @@ public class hackerAssignmentClass1 {
 		scanInput();
 		ifElse();
 		printIO();
-		scan.close();
+		scan.close(); 
 	}
 	
 	//Hacker rank Assignment1
