@@ -20,7 +20,7 @@ public class hackerAssignmentClass2 {
 
 	public static void formattingOutput() 
 	{
-		System.out.println("*********************************");
+		System.out.println("*********************************");//
 		for(int i=0 ;i<3;i++)
 		{
 			String s1 = scan.next();
@@ -38,7 +38,7 @@ public class hackerAssignmentClass2 {
 	
 	public static void multiply() 
 	{
-		System.out.println("Enter the interger \n");
+		System.out.println("Enter the interger \n");//
 		int N = scan.nextInt();
 		
 		for(int i=1;i<=10;i++) 
