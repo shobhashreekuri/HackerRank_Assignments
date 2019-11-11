@@ -16,7 +16,7 @@ m.group(i) is the ith match. So m.group(1) is the 1st match (which is enclosed i
 The ?: is added to make it a "non-capturing group", for slightly faster performance.
 10/20/18 - Looks like the problem statement changed a bit, and digits should no longer be in the regular expression. User @4godspeed has an updated solution: https://www.hackerrank.com/challenges/duplicate-word/forum/comments/503715 that may work.
 */
-
+//
 package hackerAssignmentClass;
 
 import java.util.Scanner;
