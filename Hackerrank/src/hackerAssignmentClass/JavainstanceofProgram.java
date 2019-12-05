@@ -3,7 +3,7 @@ package hackerAssignmentClass;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//java instance program
 class ranker{}
 class Rockstar{   }
 class Hacker{}
