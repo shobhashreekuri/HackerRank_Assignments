@@ -1,5 +1,5 @@
 package hackerAssignmentClass;
-//java instance program from hackerrank
+
 
 import java.util.ArrayList;
 import java.util.Scanner;
